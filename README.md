@@ -76,10 +76,10 @@ NOTE: This endpoint requires form data as the body, ie {"asset_name": "name_here
   ```
 
 ### Testing
-* Run Pytest with the virtual environment activated:
-  ```sh
-  pytest
-  ```
+Run Pytest with the virtual environment activated:
+```sh
+pytest
+```
 
 ### Thoughts
 If this assignment were in "real life" enterprise work, instead of in memory storing with the dictionary data structure, I would choose to store the information in a database. 
