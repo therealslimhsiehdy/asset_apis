@@ -71,15 +71,15 @@ NOTE: This endpoint requires form data as the body, ie {"asset_name": "name_here
   ```
 
 4. Use this link to make requests to the server (Postman suggested):
-   ```sh
-   http://127.0.0.1:5000
-   ```
+  ```sh
+  http://127.0.0.1:5000
+  ```
 
 ### Testing
 * Run Pytest with the virtual environment activated:
-   ```sh
-   pytest
-   ```
+  ```sh
+  pytest
+  ```
 
 ### Thoughts
 If this assignment were in "real life" enterprise work, instead of in memory storing with the dictionary data structure, I would choose to store the information in a database. 
