@@ -59,15 +59,17 @@ NOTE: This endpoint requires form data as the body, ie {"asset_name": "name_here
   python -m venv .venv
   source .venv/bin/activate
    ```
+
 2. Install requirements into virtual environment:
-   ```sh
+  ```sh
   pip install -r requirements.txt
-   ```
+  ```
 
 3. Start the Flask application:
-   ```sh
+  ```sh
   FLASK_APP=main.py flask run
-   ```
+  ```
+
 4. Use this link to make requests to the server (Postman suggested):
    ```sh
    http://127.0.0.1:5000
