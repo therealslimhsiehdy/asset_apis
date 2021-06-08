@@ -4,7 +4,7 @@ import pytest
 '''
 DESCRIPTION:
 This magical function can trigger test requests to main.py and will also keep track of requests for us
-REFERENCE: https://flask.palletsprojects.com/en/2.0.x/testing/
+REFERENCE: https://flask.palletsprojects.com/en/2.0.x/testing
 '''
 @pytest.fixture
 def client():

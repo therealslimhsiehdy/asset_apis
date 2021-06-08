@@ -1,7 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 </br>
 
-# Directory Hunt
+# Asset APIs
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
